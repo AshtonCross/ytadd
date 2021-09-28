@@ -1,0 +1,12 @@
+
+YTADD
+-----
+Sep 28, 2021. Version 0.1
+
+This is a small script used for automatically formatting and turning channel id's into xml files, and then adding it to your newsboat feed.
+Wrote this because I was slighty annoyed with having to write "https://youtube.com/feeds/videos?=channel_id=..." multiple times.
+
+I wrote it fairly quickly, but have revised it a bit already and plan to add a few more features because I'm too lazy to organize a text file myself. It's also good practice.
+The only reason I am publishing this is so that way I can acess it easily on my other laptop, and so I can update it on either desktop or laptop.
+This program isn't the most well written, but I am hoping that as I become more familliar with Python, I can add more features, and make it more optimal, and overall just less ugly.
+
