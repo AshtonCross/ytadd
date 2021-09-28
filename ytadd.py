@@ -16,9 +16,9 @@ except:
     mode = None
 
 if mode == 'help':
-    pass
-if mode == 'tags':
-    pass
+    print('help mode coming soon')
+elif mode == 'tags':
+    print('tags coming soon')
 else:
     # Add mode
 
