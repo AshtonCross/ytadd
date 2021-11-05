@@ -7,7 +7,7 @@
 import sys
 import os
 
-main():
+def main():
     #config stuff:
     newsboat_url = os.path.expanduser('~/.newsboat/urls')           # replace this with your URL file location. It should probably already be this.
 
