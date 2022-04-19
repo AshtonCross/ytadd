@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# @kashermash on github
+# @ashtoncross on github
 # if you want this accessable from the terminal, edit ~/.bashrc to include: alias ytadd='python3 /dir/to/ytadd'
                                                                                 # you could also chmod +x ytadd and then add ytadd to PATH.
 
